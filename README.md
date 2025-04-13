@@ -3,4 +3,4 @@ this is my first Git repository.
 <br>
 Author-Niveditha gowda
 <br>
-studed-bachiur in data science
+studed-bachlur in data science
